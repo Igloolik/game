@@ -8,8 +8,6 @@ int main()
 
     // ...we'll put our interface code here!...
 
-    // Test Merge
-
     // refresh the screen, then wait 5 seconds
     refresh_screen();
     delay(5000);
